@@ -8,7 +8,7 @@ import pandas as pd
 import requests
 import streamlit as st
 from dotenv import load_dotenv
-from langchain.chains import RetrievalQA
+from langchain_classic.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.llms import HuggingFacePipeline
@@ -17,8 +17,6 @@ from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, pipeline
 
 load_dotenv()
 
-st.title("My AI Agent")
-st.write("Demo for my AI Agent Development Challenge")
 VECTORSTORE_DIR = Path(os.getenv("VECTORSTORE_DIR", "vectorstore"))
 CONFIDENCE_THRESHOLD = float(os.getenv("CONFIDENCE_THRESHOLD", "0.55"))
 LOG_PATH = Path(os.getenv("CHAT_LOG_PATH", "data/chat_logs.csv"))
