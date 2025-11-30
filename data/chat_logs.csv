@@ -1,0 +1,21 @@
+timestamp,question,answer,confidence,sources,escalated
+2025-11-28T13:13:27.815203,How do I reset my portal password?,"Forgot Password link on the sign-in page, then confirm via the email OTP.",0.6488,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",False
+2025-11-28T13:14:27.188569,What is the SLA for premium customers?,2-hour first-response SLA and 24-hour resolution commitment,0.5017,"kb-1 | sla,premium;kb-1 | sla,premium;kb-1 | sla,premium",True
+2025-11-28T13:21:26.909482,How do I reset my portal password?,"Forgot Password link on the sign-in page, then confirm via the email OTP.",0.6488,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",False
+2025-11-28T13:21:33.785969,Can I connect my Slack workspace?,Yes.,0.0,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",True
+2025-11-28T13:36:14.852157,How do I reset my portal password?,"Forgot Password link on the sign-in page, then confirm via the email OTP.",0.6488,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",False
+2025-11-28T13:38:45.291473,How do I reset my portal password?,"Forgot Password link on the sign-in page, then confirm via the email OTP.",0.6488,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",False
+2025-11-28T13:45:53.497878,dog,I am a support specialist.,0.0,"kb-3 | orders,tracking;kb-3 | orders,tracking;kb-3 | orders,tracking",True
+2025-11-28T13:46:16.619273,are u using AI,no,0.0,"kb-3 | orders,tracking;kb-3 | orders,tracking;kb-3 | orders,tracking",True
+2025-11-28T13:46:37.910129,then how are u working,I am a helpful support specialist,0.0,"kb-3 | orders,tracking;kb-3 | orders,tracking;kb-3 | orders,tracking",True
+2025-11-28T13:47:04.127765,how do u work explain,"You are SupportGPT, a helpful support specialist, use ONLY the context provided. If the answer is not present, say you do not know and suggest escalation.",0.0,"kb-1 | sla,premium;kb-1 | sla,premium;kb-1 | sla,premium",True
+2025-11-28T13:50:47.742669,I forgot my credentials,Is there a way to reset my password?,0.0481,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",True
+2025-11-28T13:51:19.027282,tell me,what is the SLA for premium customers?,0.0,"kb-1 | sla,premium;kb-1 | sla,premium;kb-1 | sla,premium",True
+2025-11-28T13:51:45.682605,give me answer for previous question,Is this the only option that you can use to resolve this issue?,0.0,"kb-1 | sla,premium;kb-1 | sla,premium;kb-1 | sla,premium",True
+2025-11-28T14:08:04.229414,forgot password,a).,0.2216,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",True
+2025-11-28T14:08:16.495463,How do I reset my portal password?,"Forgot Password link on the sign-in page, then confirm via the email OTP.",0.6488,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",False
+2025-11-28T14:10:38.628422,I forgot my password what should I do?,"Forgot Password link on the sign-in page, then confirm via the email OTP.",0.1679,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",True
+2025-11-28T14:11:13.375950,what is an otp?,a question,0.0,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",True
+2025-11-29T15:20:16.126470,How do I reset my portal password?,"Forgot Password link on the sign-in page, then confirm via the email OTP.",0.6488,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",False
+2025-11-30T08:00:17.985932,How do I reset my portal password?,"Forgot Password link on the sign-in page, then confirm via the email OTP.",0.6488,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",False
+2025-11-30T08:52:29.443318,How do I reset my portal password?,"Forgot Password link on the sign-in page, then confirm via the email OTP.",0.6488,"kb-0 | account,login;kb-0 | account,login;kb-0 | account,login",False
